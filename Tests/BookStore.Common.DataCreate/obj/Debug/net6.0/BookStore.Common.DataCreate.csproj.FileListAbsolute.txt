@@ -1,0 +1,17 @@
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\Tests\BookStore.Common.DataCreate\obj\Debug\net6.0\BookStore.Common.DataCreate.csproj.AssemblyReference.cache
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\Tests\BookStore.Common.DataCreate\obj\Debug\net6.0\BookStore.Common.DataCreate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\Tests\BookStore.Common.DataCreate\obj\Debug\net6.0\BookStore.Common.DataCreate.AssemblyInfoInputs.cache
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\Tests\BookStore.Common.DataCreate\obj\Debug\net6.0\BookStore.Common.DataCreate.AssemblyInfo.cs
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\Tests\BookStore.Common.DataCreate\obj\Debug\net6.0\BookStore.Common.DataCreate.csproj.CoreCompileInputs.cache
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\Tests\BookStore.Common.DataCreate\bin\Debug\net6.0\BookStore.Common.DataCreate.deps.json
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\Tests\BookStore.Common.DataCreate\bin\Debug\net6.0\BookStore.Common.DataCreate.dll
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\Tests\BookStore.Common.DataCreate\bin\Debug\net6.0\ref\BookStore.Common.DataCreate.dll
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\Tests\BookStore.Common.DataCreate\bin\Debug\net6.0\BookStore.Common.DataCreate.pdb
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\Tests\BookStore.Common.DataCreate\bin\Debug\net6.0\BookStore.DataStore.dll
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\Tests\BookStore.Common.DataCreate\bin\Debug\net6.0\BookStore.Models.dll
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\Tests\BookStore.Common.DataCreate\bin\Debug\net6.0\BookStore.Models.pdb
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\Tests\BookStore.Common.DataCreate\bin\Debug\net6.0\BookStore.DataStore.pdb
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\Tests\BookStore.Common.DataCreate\obj\Debug\net6.0\BookStore.Common.DataCreate.csproj.CopyComplete
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\Tests\BookStore.Common.DataCreate\obj\Debug\net6.0\BookStore.Common.DataCreate.dll
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\Tests\BookStore.Common.DataCreate\obj\Debug\net6.0\ref\BookStore.Common.DataCreate.dll
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\Tests\BookStore.Common.DataCreate\obj\Debug\net6.0\BookStore.Common.DataCreate.pdb

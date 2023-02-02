@@ -1,0 +1,17 @@
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\BookStore.Service\obj\Debug\net6.0\BookStore.Service.csproj.AssemblyReference.cache
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\BookStore.Service\obj\Debug\net6.0\BookStore.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\BookStore.Service\obj\Debug\net6.0\BookStore.Service.AssemblyInfoInputs.cache
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\BookStore.Service\obj\Debug\net6.0\BookStore.Service.AssemblyInfo.cs
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\BookStore.Service\obj\Debug\net6.0\BookStore.Service.csproj.CoreCompileInputs.cache
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\BookStore.Service\bin\Debug\net6.0\BookStore.Service.deps.json
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\BookStore.Service\bin\Debug\net6.0\BookStore.Service.dll
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\BookStore.Service\bin\Debug\net6.0\ref\BookStore.Service.dll
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\BookStore.Service\bin\Debug\net6.0\BookStore.Service.pdb
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\BookStore.Service\bin\Debug\net6.0\BookStore.DataStore.dll
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\BookStore.Service\bin\Debug\net6.0\BookStore.Models.dll
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\BookStore.Service\bin\Debug\net6.0\BookStore.Models.pdb
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\BookStore.Service\bin\Debug\net6.0\BookStore.DataStore.pdb
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\BookStore.Service\obj\Debug\net6.0\BookStore.Service.csproj.CopyComplete
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\BookStore.Service\obj\Debug\net6.0\BookStore.Service.dll
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\BookStore.Service\obj\Debug\net6.0\ref\BookStore.Service.dll
+C:\Users\sergio.perez\RepositoriesOfSergio\Udemy\BookPersonProject\BookStore.Service\obj\Debug\net6.0\BookStore.Service.pdb
